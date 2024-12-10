@@ -1,1 +1,3 @@
 # question_repeat
+
+This study examines whether large language models (LLMs), such as ChatGPT, specifically the latest GPT-4o-mini, exhibit sensitivity to repeated prompts and whether repeating a question can improve response accuracy. We hypothesize that reiterating a question within a single prompt might enhance the model's focus on key elements of the query. To test this, we evaluated ChatGPT’s performance on two reading comprehension datasets under both open-book and closed-book settings, varying the repetition of each question to 1, 3, or 5 times per prompt. Our findings indicate that the model does not demonstrate sensitivity to repeated questions, highlighting its robustness in this context.
